@@ -1,0 +1,6 @@
+{
+  "name": "Manganese Mine Intelligence (MMI)",
+  "description": "AI-Powered Manganese Mining Intelligence for reserve identification, production forecasting, and shortfall risk prevention. SIH 2026 prototype for MOIL & Ministry of Steel.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
